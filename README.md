@@ -11,3 +11,7 @@
 
 ### API Docs
 To view the API documentation, run the API and access [http://localhost:3333/api-docs](http://localhost:3333/api-docs) in your browser
+
+## Comments
+
+- Don't forget to run the api before authenticating to the project
